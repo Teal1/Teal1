@@ -1,7 +1,11 @@
 👋 Hi, I’m @Teal1 (Sam Teal)
+
 🌎 I'm a 20 y/o private pilot currently attending university for Finance and CS. 
+
 👀 I’m also interested in competitive gaming, Spikeball and skiing.
+
 🌱 I’m currently learning full-stack web development from TOP.
+
 📫 You can reach me at tealify4@gmail.com
 
 <!---
