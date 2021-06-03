@@ -1,4 +1,4 @@
-👋 Hi, I’m @Teal1 (Sam Teal)
+👋 Hi, I’m Sam Teal
 
 🌎 I'm a 20 y/o private pilot currently attending university for Finance and CS. 
 
